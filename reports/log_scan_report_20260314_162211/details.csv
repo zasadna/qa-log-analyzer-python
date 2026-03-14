@@ -1,8 +1,0 @@
-﻿file_path,line_number,matched_groups,matched_keywords,line_text
-example_logs\app.log,2,Warnings,deprecated; warning,2026-03-14 10:00:03 WARNING Configuration file is deprecated
-example_logs\app.log,3,Critical Errors,error; failed,2026-03-14 10:00:08 ERROR Failed to connect to database
-example_logs\app.log,4,Warnings,retry,2026-03-14 11:00:12 INFO Retry attempt started
-example_logs\app.log,5,Critical Errors; System Issues,error; timeout,2026-03-14 11:00:20 ERROR Request timeout after 5000 ms
-example_logs\service.log,2,Critical Errors; Data Issues,error; invalid,2026-03-14 09:15:07 ERROR Invalid parameter value received
-example_logs\service.log,3,Logic Issues; Warnings,duplicate; warn,2026-03-14 09:15:18 WARN Duplicate record detected
-example_logs\service.log,4,Critical Errors; Permission Issues,denied; error,2026-03-14 09:15:22 ERROR Access denied for current user
