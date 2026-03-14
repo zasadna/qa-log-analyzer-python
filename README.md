@@ -72,6 +72,9 @@ Invalid configuration parameter
 Access denied for current user
 Duplicate record detected
 
+## Example Output
+
+![Log Analyzer Output](docs/example-output.png)
 ---
 
 ## Requirements
