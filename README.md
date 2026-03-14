@@ -33,6 +33,7 @@ The reports help quickly answer questions like:
 
 ## Project structure
 
+```text
 qa-log-analyzer-python
 │
 ├─ scan_logs.py
@@ -46,6 +47,7 @@ qa-log-analyzer-python
 │   └─ service.log
 │
 └─ reports
+```
 
 ---
 
