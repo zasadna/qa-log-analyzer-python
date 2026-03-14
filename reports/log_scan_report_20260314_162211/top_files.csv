@@ -1,0 +1,3 @@
+﻿file_path,total_lines,matched_lines,group_hits_total,keyword_hits_total,critical_errors,warnings,system_issues,match_rate_percent
+example_logs\app.log,6,4,5,7,2,2,1,66.67
+example_logs\service.log,5,3,6,6,2,1,0,60.0
